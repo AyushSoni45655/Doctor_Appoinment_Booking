@@ -1,0 +1,29 @@
+                                      
+                                   /* google fonts import here */
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');   
+                                      
+                                      /* Tailwind import here */
+
+@import "tailwindcss";
+
+
+nav{
+  font-family: "Archivo Black", sans-serif;
+}
+body{
+  background-color: #222a2a;
+  user-select: none;
+}
+/* Other Application related imports */
+
+.sections{
+  width: 85%;
+  margin: auto;
+}
+.lsShadow{
+  box-shadow: rgba(125, 39, 242, 0.1) 6px 2px 16px 1px, rgba(125, 39, 242, 0.1) -6px -2px 16px 0px;
+}
+.cardShadow{
+  box-shadow: rgba(235, 235, 253, 0.5) 0px 2px 5px -1px, rgba(235, 235, 253, 0.5) 0px 1px 3px -1px;
+  
+}

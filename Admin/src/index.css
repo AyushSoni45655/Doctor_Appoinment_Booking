@@ -1,0 +1,9 @@
+
+
+
+/* tailwind imports here */
+@import "tailwindcss";
+
+.lsShadow{
+  box-shadow: rgba(125, 39, 242, 0.1) 6px 2px 16px 1px, rgba(125, 39, 242, 0.1) -6px -2px 16px 0px;
+}
