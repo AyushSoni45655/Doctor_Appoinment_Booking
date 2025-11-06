@@ -1,9 +1,10 @@
 # 🩺 Doctor Appointment Booking Application  
 
 ![MERN](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmvli0QPiNiOMr0LlHSVR1BnQ1LCcW066TlfkZTiFzBkkZ6ZbGGQNKQp_9Jrz3w_OuL_BhLQKJPMg7WdCIIcaSekYCKFQaC34q1BsJFQsJ2RilXRiiMVx16zGHBbkzdhUqf8_aEVIyXa3PCQMWcnjs2L76sfVv5i_CL40DI7MnYSPYmOmiOxwvzejiOkf3/s1893/Screenshot%202025-11-06%20080242.png)
-![Razorpay](https://img.shields.io/badge/Payment-Razorpay-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Specialist](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh046LvaL-o3M6WXtVmBay2RXvDSf3y8NWb8Rjrz0cY0khXDYeCRv9RenL3qBOnfGdeueTrrM3p1rsY9qPnPAj21qgYznf6gz-xNF7a8LqJuFW48RLx_GZdsw1yBkmkFBOKjDJGkTpzMGyGYWFHI0Me-OFUKvjYN7ejzxicaWXjhH-zksgLu-ugdHsYHJWQ/s1845/Screenshot%202025-11-06%20080301.png)
+![Top Doctors](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH9yGGzZnk8Sx4ncmeChX9WJU9sGX0IAGn0dzhP3B4O_o_lCUr9KjNwtQEFFTCUexiGSg_G4U6gOobm4HMlRwpMbIAJJjY7ilEnTUyE5TAscBPeqhcFjY4qovM_HwQVs6-LzdNm7gKb1-73V1553Aux1kieJCcOKtfoHzKCu2jIPeh6SAQGDNvEe0iHKvp/s1768/Screenshot%202025-11-06%20080317.png)
 
+![All Doctors](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwbBEtuxuKRg8aCoiC2ktyob3mMjzTyuem2fX6AAD46NdRSOsUMZ7M1RdWFDNBUM7ixRx9FSoJ3nnK6eabNrYWCV3xzUA1-FO_F1xxb_efzWeRo4Fm0jfykmcoCiB9r_Yj69qKgn8mxWCiloI7FyuOJQTHvdoXbc6ZAYwsfcIM1wp47vJ7JLsJGWgc1Da1/s1881/Screenshot%202025-11-06%20080359.png)
 ## 📘 Overview  
 
 The **Doctor Appointment Booking Application** is a full-stack web platform built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** that enables users to **book doctor appointments online**, view available slots, and make **secure online payments using Razorpay**.  
