@@ -10,7 +10,7 @@ import SignIn from "./pages/Account/SignIn"
 import ForgotPassword from "./pages/ForgotPassword"
 import DetailsPage from "./pages/Account/DetailsPage"
 import PublicRoute from "./routes/PublicRoute"
-import PrivateRoute from "./routes/PrIvateRoute"
+import PrivateRoute from "./routes/PrivateRoute"
 import Profile from "./pages/Profile"
 import Appoinment from "./pages/Appoinment"
 function App() {
